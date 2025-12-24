@@ -38,8 +38,6 @@ dependencies:
     path: ../../packages/core
   ui_kit:
     path: ../../packages/ui_kit
-  authentication:
-    path: ../../packages/authentication
   flutter_bloc: ^8.1.6
   http: ^1.2.2
 dev_dependencies:
